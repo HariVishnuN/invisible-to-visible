@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+
+    background:#0f172a;
+    color:white;
+
+    display:flex;
+    justify-content:center;
+
+    padding:40px;
+}
+
+.container{
+
+    width:900px;
+}
+
+header{
+
+    text-align:center;
+
+    margin-bottom:30px;
+}
+
+header h1{
+
+    font-size:40px;
+
+    color:#38bdf8;
+}
+
+header p{
+
+    color:#cbd5e1;
+
+    margin-top:10px;
+}
+
+.card{
+
+    background:#1e293b;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    margin-bottom:20px;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,0.4);
+}
+
+.card h2{
+
+    color:#38bdf8;
+
+    margin-bottom:15px;
+}
+
+#trustScore{
+
+    font-size:60px;
+
+    color:#22c55e;
+
+    text-align:center;
+}
+
+#riskLevel{
+
+    text-align:center;
+
+    font-size:35px;
+
+    color:#f59e0b;
+}
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+}
+
+td{
+
+    padding:12px;
+
+    border-bottom:1px solid #334155;
+}
+
+ul{
+
+    padding-left:20px;
+}
+
+li{
+
+    margin-bottom:10px;
+}
