@@ -93,13 +93,10 @@ PriviLens is currently under active development. The current prototype demonstra
 
 * 🖥️ PriviLens browser extension popup
   <img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/3dd9b49e-f020-4375-91b5-3e892641caa1" />
-
 * 🔍 Website privacy signal detection
   <img width="617" height="492" alt="image" src="https://github.com/user-attachments/assets/21d0edb2-1363-4b37-bbae-7e811b982f2a" />
-
 * 📊 Trust Score calculation
   <img width="407" height="387" alt="image" src="https://github.com/user-attachments/assets/67709619-7be6-46ad-862e-ff1c5c1c31c9" />
-
 * ⚙️ Backend analysis response
   <img width="1301" height="985" alt="image" src="https://github.com/user-attachments/assets/b3e9c1e8-cf98-4b7b-bad8-9653a06021e3" />
 
